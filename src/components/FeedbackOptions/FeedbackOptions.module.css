@@ -1,0 +1,13 @@
+.btn {
+  width: 60px;
+  border-radius: 5px;
+  background-color: antiquewhite;
+  margin-right: 10px;
+}
+.btnConteiner {
+  margin-top: 20px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
