@@ -14,6 +14,9 @@ export const FeedbackOptions = ({ countBtn }) => {
         <button name="bad" onClick={countBtn} className={css.btn}>
           Bad
         </button>
+        <button name="reset" onClick={countBtn} className={css.btn}>
+          Reset
+        </button>
       </div>
     </div>
   );

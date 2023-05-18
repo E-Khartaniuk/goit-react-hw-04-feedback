@@ -3,7 +3,13 @@
   border-radius: 5px;
   background-color: antiquewhite;
   margin-right: 10px;
+  cursor: pointer;
 }
+
+.btn:hover {
+  background-color: rgb(238, 222, 202);
+}
+
 .btnConteiner {
   margin-top: 20px;
   width: 300px;
